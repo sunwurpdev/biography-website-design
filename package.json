@@ -1,0 +1,25 @@
+{
+  "name": "biography-website-design",
+  "version": "1.0.0",
+  "description": "Biography website UI design written with Tailwind CSS.",
+  "main": "index.js",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "tailwindcss": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunwurpdev/biography-website-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sunwurpdev/biography-website-design/issues"
+  },
+  "homepage": "https://github.com/sunwurpdev/biography-website-design#readme"
+}
